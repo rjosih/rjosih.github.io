@@ -15,3 +15,7 @@ korpenlaget FC Tåpaj som många andra SPIIKare är med i.
 Överlag gillar jag att vara ute och göra saker, vad som helst egentligen. 
 Det kan vara allt från roadtrips, resa, umgås med kompisar och jobba. 
 Att vara rastlös är en av de värsta sakerna jag vet, jag måste göra saker hela tiden vare sig det är roligt eller tråkigt
+
+
+
+![jag]({{ site.url }}/pics/glasses.jpg)
