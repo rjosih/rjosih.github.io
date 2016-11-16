@@ -21,7 +21,9 @@ Fördelar: Mindre CSS-kod, ingen upprepning, organiserad CSS med separata filer 
 Nackdelar: svårare att debugga koden då linjenumren i browsen inte stämmer med källan, mer komplext med mer verktyg etc.
 
 <b> Vad tycker du om static site generators? </b>
-Jättebra, behövs inga uppdateringar, det som skulle vara en nackdel är att jämfört med html statisk – mer komplext.
+Beror på sammanhanget, men i det här fallet när man gör en "blogg" funkar det utmärkt medan Facebook som har ett gående flöde
+där man slipper uppdatera själv utan det görs av sig själv med bakgrundsaktivitet osv. Statiska hemsidor är mindre komplexa och
+därför enklare att programmera för. Eftersom det enda jag kan i dagsläget är statiska hemsidor tycker jag det är jättebra.
 
 <b> Vilka projekt är det bra att använda till? </b>
 Hemsidor som ska ha samma design med en global navigering, då undviker man som tidigare sagt att man slipper upprepa sig.
