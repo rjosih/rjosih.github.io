@@ -5,7 +5,7 @@ description: Copyright © 2016 Rosa Ekström
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: rosaekstrom
-github_username: re222gr
+github_username: rjosih
 
 # Build settings
 markdown: kramdown
