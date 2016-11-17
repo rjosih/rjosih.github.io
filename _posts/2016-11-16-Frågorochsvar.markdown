@@ -24,10 +24,12 @@ Nackdelar: svårare att debugga koden då linjenumren i browsen inte stämmer me
 Beror på sammanhanget, men i det här fallet när man gör en "blogg" funkar det utmärkt medan Facebook som har ett gående flöde
 där man slipper uppdatera själv utan det görs av sig själv med bakgrundsaktivitet osv. Statiska hemsidor är mindre komplexa och
 därför enklare att programmera för. Eftersom det enda jag kan i dagsläget är statiska hemsidor tycker jag det är jättebra.
+En nackdel kan vara är om man vill ändra något litet då man måste ändra i alla filer och då kan man lätt missa detaljer.
 
 <b> Vilka projekt är det bra att använda till? </b>
 Hemsidor som ska ha samma design med en global navigering, då undviker man som tidigare sagt att man slipper upprepa sig.
-Då många av dagens webbsidor har global navigering skulle jag vilja påstå majoriteten av webbsidor är static site generators bra.
+Då många av dagens webbsidor har global navigering samt gemensam headerbild och liknande skulle jag vilja påstå
+majoriteten av webbsidor är static site generators bra.
 
 <b> Vad är robots.txt och hur har du konfigurerat det för din webbplats? </b>
 I grund och botten är robots.txt en textfil som är placerad i ens webbserver.
