@@ -1,0 +1,12 @@
+---
+layout: post
+comments: true
+title:  "Klar"
+date:   2016-11-17 13:32:30
+categories: jekyll update
+---
+
+Hej kompisar, nu tror jag att jag är officiellt klar med den här uppgiften och det firar jag med ett sista inlägg!
+Peace out
+
+![Rosa](/pics/jagigen.jpg)
